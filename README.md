@@ -139,20 +139,5 @@ This project maps directly to the CMPE2004 Advanced Programming syllabus require
 
 ---
 
-## 🔮 Future Enhancements
 
-* **Persistent Storage:** Integrating `SharedPreferences` or a local SQLite database using **Room** to save reminders across device reboots.
-* **Repeating Alarms:** Implementing custom frequency rules (e.g., daily, weekly, custom intervals) for medications.
-* **Localization:** Translating the app into Turkish and other languages to expand accessibility.
-* **Accessibility Settings:** Adding in-app options to adjust font scale and toggle high-contrast mode dynamically.
 
----
-
-## 📂 Presentation Outline (Week 14)
-
-1. **Problem Definition:** Why daily reminders matter for disadvantaged individuals.
-2. **Target User Group:** Elderly users, people with memory difficulties, and individuals needing daily routine support.
-3. **Main Features Demo:** Walkthrough of adding a reminder → list update → notification trigger → daily quote fetching.
-4. **Screen Walkthrough:** Demonstrating layout and design of Main, Add Reminder, and About screens.
-5. **Technical Explanation:** In-depth review of Activities, intents, OOP patterns, HTTP queries, and the BroadcastReceiver lifecycle.
-6. **Q&A**
